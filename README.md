@@ -109,16 +109,6 @@ Simple-Task_Manager-FrontEnd-/
 
 ---
 
-## 📸 Screenshots
-
-> **Light Mode**
-> Clean white card layout with blue accents, priority badges, and a summary panel.
-
-> **Dark Mode**
-> Deep slate background with soft blue highlights — easy on the eyes at night.
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
@@ -129,13 +119,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 4. Push to the branch: `git push origin feature/my-feature`
 5. Open a Pull Request
 
----
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 <div align="center">
   Made with ❤️ by <a href="https://github.com/devsp0007">devsp0007</a>
