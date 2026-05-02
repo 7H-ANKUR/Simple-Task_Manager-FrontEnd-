@@ -75,7 +75,7 @@ Simple-Task_Manager-FrontEnd-/
 | **Components** | Rounded cards, pill badges, smooth button hovers |
 | **Animations** | CSS transitions on hover, drag ghost, button lift effect |
 | **Themes** | Light & Dark mode, auto-detected from OS preference |
-
+| **Main** | Full working to-do web app with all important features|
 ---
 
 ## 🛠️ How It Works
